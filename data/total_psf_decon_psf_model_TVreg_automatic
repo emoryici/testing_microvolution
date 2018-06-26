@@ -1,0 +1,32 @@
+#Microvolution deconvolution settings
+#Fri May 11 10:35:14 EDT 2018
+microvolution.tiling.x=1
+microvolution.preFilter=0
+microvolution.destripe.width.0=0.1
+microvolution.lambda.0=488.0
+microvolution.background.0=0.0
+microvolution.NA=1.1
+microvolution.padding.z=5
+microvolution.regularization=-1.0
+microvolution.regularizationType=1
+microvolution.padding.y=5
+microvolution.padding.x=5
+microvolution.backgroundType=None
+microvolution.destripe.level.0=2
+microvolution.psfModel=1
+microvolution.RI=1.35
+microvolution.pinhole.0=500.0
+microvolution.lightSheet.NA=0.71
+microvolution.destripe=false
+microvolution.generatePsf=true
+microvolution.destripe.strength.0=0.5
+microvolution.blind=false
+microvolution.iterations.0=10
+microvolution.psfType=3
+microvolution.postFilter=0
+microvolution.destripe.horizontal=false
+microvolution.scaling=1
+microvolution.ns=1.35
+microvolution.tiling.z=1
+microvolution.devices=[0]
+microvolution.tiling.y=1
