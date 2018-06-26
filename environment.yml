@@ -15,7 +15,7 @@ dependencies:
         - mkl_random=1.0.1=py36h9258bd6_0
   - python=3.6.5
   - setuptools=39.1.0=py36_0
-  - vc=14
+  - vc
   - vs2015_runtime=14.0.25123
   - wheel=0.31.0=py36_0
   - wincertstore=0.2
