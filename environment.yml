@@ -3,6 +3,7 @@ channels:
   - anaconda
   - defaults
   - msys2
+  - conda-forge
 dependencies:
   - certifi=2018.4.16=py36_0
   - intel-openmp=2018.0.0=8
