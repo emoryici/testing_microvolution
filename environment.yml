@@ -1,5 +1,6 @@
 name: pyvolution
 channels:
+  - anaconda
   - defaults
 dependencies:
   - certifi=2018.4.16=py36_0
