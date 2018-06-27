@@ -1,3 +1,8 @@
 
 *.yml~
 *.un~
+*.dll
+.ipynb_checkpoints/pyvolution-test-checkpoint.ipynb
+.ipynb_checkpoints/pyvolution-test-lightsheet-checkpoint.ipynb
+pyvolution-test.ipynb
+pyvolution.pyd
